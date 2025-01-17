@@ -9,7 +9,7 @@ The goal of the mod is to provide a more immersive subway experience without bre
 
 ![](image.jpg)
 
-### Contents
+## Contents
 - Replaced all subway signs that now captures the iconic NYC style: black with Helvetica font.
 - All subway map at stations were replaced with a more accurate one.
 - Several stations were renamed to eliminate repetitive/duplicate names, majority are in Algonquin.
@@ -35,14 +35,32 @@ The goal of the mod is to provide a more immersive subway experience without bre
 > 
 > put "vehicles" folder into "[LCPP_v0.1]\lcpack\stream\levels\gta5\vehicles\vehicles" then replace
 
-### Changenotes
-#### [v2.0]
-- Added subway train textures
+## In-game changenotes
+### Stations
+- Renamed East Park into Middle Park
+- Renamed Easton into Grand Easton
+- Renamed Emerald into Emerald Street
+- Renamed Feldspar into Feldspar Street
+- Renamed Frankfort Avenue into Lorimar Street
+- Renamed Frankfort High into Wardite Street
+- Renamed Frankfort Low into Frankfort Avenue
+- Renamed Hematite into Hematite Street
+- Renamed Hove Beach into Firefly Island
+- Renamed Manganese East into Manganese Street
+- Renamed Manganese West into Hell Gate
+- Renamed North Park into Denver Avenue
+- Renamed Quartz East into Quartz Street
+- Renamed Quartz West into Vespucci University
+- Renamed Schottler into Sundance Street
+- Renamed Suffolk into Garnet Street
+- Renamed Vauxite into Vauxite Street
+- Renamed Vespucci Circus into Astoria
 
-#### [v1.0]
-- Initial release
+### Vehicles
+- Retextured subway.ytd
+- Retextured subway+hi.ytd
 
-### Credits
+## Credits
 - Meesmoth for the original mod for GTA IV
 - ozzysunn for porting the mod to GTA V
 - dexyfex for OpenMapTools
