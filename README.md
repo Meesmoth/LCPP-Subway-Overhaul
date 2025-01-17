@@ -1,6 +1,6 @@
 ![](logo.png)
 
-# LCPP Subway-Overhaul
+# LCPP Subway Overhaul
 Originally a GTA IV mod, now ported over to GTA V for Liberty City Preservation Project users. A lore friendly overhaul of Liberty City's subway system to faithfully resemble its real life counterpart.
 
 The goal of the mod is to provide a more immersive subway experience without breaking the game lore.
