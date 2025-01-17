@@ -55,6 +55,7 @@ The goal of the mod is to provide a more immersive subway experience without bre
 - Renamed Suffolk into Garnet Street
 - Renamed Vauxite into Vauxite Street
 - Renamed Vespucci Circus into Astoria
+- Renamed West Park into Obsidian Street
 
 ### Vehicles
 - Retextured subway.ytd
