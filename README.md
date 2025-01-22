@@ -1,7 +1,7 @@
 ![https://gtaforums.com/topic/998885-lta-subway-overhaul-120th-anniversary-edition/](logoupdated.png)
 
 # LCPP Subway Overhaul
-[Originally a GTA IV mod](https://github.com/Meesmoth/LTA-Subway-Overhaul), now ported over to GTA V for Liberty City Preservation Project users. A lore-friendly overhaul of Liberty City's subway system to faithfully resemble its real life counterpart.
+[Originally a GTA IV mod](https://github.com/Meesmoth/LTA-Subway-Overhaul), now ported over to GTA V for Liberty City Preservation Project users. A lore friendly overhaul of Liberty City's subway system to faithfully resemble its real life counterpart.
 
 The goal of the mod is to provide a more immersive subway experience without breaking the game lore.
 
