@@ -15,25 +15,28 @@ The goal of the mod is to provide a more immersive subway experience without bre
 - Several stations were renamed to eliminate repetitive/duplicate names, majority are in Algonquin.
 
 ## Installation
+> [!IMPORTANT]
 > **[Singleplayer]**
 > 
-> put files into "mods\update\x64\dlcpacks\liberty_city\dlc.rpf\x64\levels\gta5\liberty_city\east\[Folder with corresponding name].rpf"
+> * put files into "mods\update\x64\dlcpacks\liberty_city\dlc.rpf\x64\levels\gta5\liberty_city\east\\[Folder with corresponding name].rpf"
 > 
-> put files into "mods\update\x64\dlcpacks\liberty_city\dlc1.rpf\x64\levels\gta5\liberty_city\manhat\[Folder with corresponding name].rpf"
+> * put files into "mods\update\x64\dlcpacks\liberty_city\dlc1.rpf\x64\levels\gta5\liberty_city\manhat\\[Folder with corresponding name].rpf"
 > 
-> put files into "mods\update\x64\dlcpacks\lcpack\dlc.rpf\x64\levels\gta5\vehicles\vehicles\vehicles.rpf"
+> * put files into "mods\update\x64\dlcpacks\lcpack\dlc.rpf\x64\levels\gta5\vehicles\vehicles\vehicles.rpf"
 
+> [!NOTE]
 > **[Singleplayer HD]**
 > 
 > *Not yet available due to different file structure, for now use Ctrl and F3 and search .rpf with corresponding name, and replace the one in it.*
 
+> [!IMPORTANT]
 > **[FiveM]**
 > 
-> put "bronx_e" and "bronx_w" and "brook_n2" and "brook_n2" and "queens_e" and "queens_m" and "queens_w" and "queens_w2" folder into "[LCPP_v0.1]\libertycity\stream\dlc\east" then replace
+> * put "bronx_e" and "bronx_w" and "brook_n2" and "brook_n2" and "queens_e" and "queens_m" and "queens_w" and "queens_w2" folder into "[LCPP_v0.1]\libertycity\stream\dlc\east" then replace
 > 
-> put "manhat05" and "manhatsw" and "subwayxr" folder into "[LCPP_v0.1]\libertycity\stream\dlc\manhat" then replace
+> * put "manhat05" and "manhatsw" and "subwayxr" folder into "[LCPP_v0.1]\libertycity\stream\dlc\manhat" then replace
 > 
-> put "vehicles" folder into "[LCPP_v0.1]\lcpack\stream\levels\gta5\vehicles\vehicles" then replace
+> * put "vehicles" folder into "[LCPP_v0.1]\lcpack\stream\levels\gta5\vehicles\vehicles" then replace
 
 ## In-game changenotes
 ### Stations
