@@ -1,4 +1,4 @@
-![https://gtaforums.com/topic/998885-lta-subway-overhaul-120th-anniversary-edition/](logoupdated.png)
+![logo](https://github.com/user-attachments/assets/cdc2b6bf-434a-4232-b516-ce83ec8c4e44)
 
 # LCPP Subway Overhaul
 [Originally a GTA IV mod](https://github.com/Meesmoth/LTA-Subway-Overhaul), now ported over to GTA V for Liberty City Preservation Project users. A lore friendly overhaul of Liberty City's subway system to faithfully resemble its real life counterpart.
@@ -7,7 +7,7 @@ The goal of the mod is to provide a more immersive subway experience without bre
 
 **Created and released in celebration for the [120th anniversary](https://ny1.com/nyc/all-boroughs/traffic_and_transit/2024/10/26/new-york-city-subway-celebrates-120th-anniversary) of the subway system.**
 
-![](image.jpg)
+![preview](https://github.com/user-attachments/assets/8e1d7565-b960-44da-acee-11a7f34e24c8)
 
 ## Contents
 - Replaced all subway signs that now captures the iconic NYC style: black with Helvetica font.
